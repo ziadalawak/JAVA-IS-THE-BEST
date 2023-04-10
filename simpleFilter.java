@@ -21,7 +21,7 @@ public class zre {
 		list.add(new produkt(7, "Samsung Galaxy A13 4 GB RAM", 171.53));
 		list.add(new produkt(4, "Samsung Galaxy S23 256 GB", 1000.09));
 		System.out.println("please select number: 1 to find IPhone Pro \n"
-				+ "	      number 2 to get mobiles at a price less than 1000 $   \n" + "	      number 3 to get IPHONE \n"
+				+ "	      number 2 to get mobiles at a price less than 1000 €   \n" + "	      number 3 to get IPHONE \n"
 				+ "              number 4 to get Samsung");
 
 		while (true) {
