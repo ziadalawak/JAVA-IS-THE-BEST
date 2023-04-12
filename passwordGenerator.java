@@ -8,7 +8,7 @@ import java.util.Random;
 public class generator {
 	public static void main(String[] args) {
 		/*
-		 * here we write all letters in English and the number and some special
+		 * here we write all letters in English, the Numbers and some special
 		 * Character
 		 */
 		String[] a = { "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s",
